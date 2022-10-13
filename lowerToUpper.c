@@ -1,3 +1,4 @@
+//All lower case aplhabets to upper case letters
 #include<stdio.h>
 int main(){
   char arr[100];
